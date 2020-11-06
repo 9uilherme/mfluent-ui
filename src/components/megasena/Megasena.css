@@ -1,0 +1,27 @@
+.Megasena .title {
+    text-align: center;
+
+}
+.Megasena .content{
+    width: 100%;
+    display: flex;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+    margin-top: 30px;
+}
+
+.Megasena .content ul li {
+    float: left;
+    width: 15%;
+    margin: 0 2px;
+    border: 1px blue solid;
+    list-style: none;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: bold;
+    background-color: #D0D0D0;
+}
+
+.Megasena .content ul {
+    width: 100%;
+}
