@@ -1,0 +1,14 @@
+.tableProducts {
+    width: 100%;
+}
+
+.tableProducts th {
+    background-color:darkcyan;
+    color: white;
+}
+.tableProducts .Even {
+    background-color: #ddd;
+}
+.tableProducts .Odd {
+    background-color: gray;
+}
